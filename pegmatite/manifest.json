@@ -26,7 +26,11 @@
 			"matches": [
 				"https://github.com/*",
 				"https://gist.github.com/*",
-				"https://gitpitch.com/*"
+				"https://gitpitch.com/*",
+                "https://ghe.corp.yahoo.co.jp/*",
+                "https://git.corp.yahoo.co.jp/*",
+                "https://git-mirror.corp.yahoo.co.jp/*",
+				"https://partner.git.corp.yahoo.co.jp/*"
 			]
 		}
 	]
